@@ -5,7 +5,10 @@ layout: home
 hero:
   name: "LCEZInfo"
   text: "历城二中"
-  tagline: My great project tagline
+  tagline: 列车二相关信息
+  image:
+    src: /logo.svg
+    alt: 校徽
   actions:
     - theme: brand
       text: Markdown Examples
@@ -23,3 +26,8 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<style>
+:root {
+  --vp-home-hero-name-color: #006F04;
+}
+</style>

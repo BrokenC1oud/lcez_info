@@ -3,26 +3,26 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "LCEZInfo",
-  description: "历城二中",
+  description: "历城二中相关信息",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '群聊', link: '/groups' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '联系',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '群聊', link: '/groups' },
+          { text: '本站', link: '/contact' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/BrokenC1oud/lcez_info' }
     ]
   }
 })
