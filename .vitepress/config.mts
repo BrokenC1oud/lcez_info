@@ -6,6 +6,7 @@ export default defineConfig({
   description: "历城二中相关信息",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.svg',
     nav: [
       { text: '主页', link: '/' },
       { text: '群聊', link: '/groups' }
