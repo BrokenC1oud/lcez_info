@@ -1,4 +1,3 @@
 node_modules
 .vitepress/dist
-!.vitepress/dist/logo.svg
 .vitepress/cache

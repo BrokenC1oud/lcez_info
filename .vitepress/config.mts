@@ -9,17 +9,20 @@ export default defineConfig({
     logo: '/logo.svg',
     nav: [
       { text: '主页', link: '/' },
-      { text: '群聊', link: '/groups' }
+      { text: '关于学校', link: '/about' },
+      { text: '社交媒体', link: '/social' }
     ],
 
     sidebar: [
+      { text: '关于学校', link: '/about' },
       {
-        text: '联系',
+        text: '社交媒体',
+        link: '/social',
         items: [
-          { text: '群聊', link: '/groups' },
-          { text: '本站', link: '/contact' }
+          { text: '群聊', link: '/social/groups' },
         ]
-      }
+      },
+      { text: '本站', link: '/contact' }
     ],
 
     socialLinks: [
