@@ -22,7 +22,8 @@ export default defineConfig({
           { text: '群聊', link: '/social/groups' },
         ]
       },
-      { text: '本站', link: '/contact' }
+      { text: '本站', link: '/contact' },
+      { text: 'Todo', link: '/todo' }
     ],
 
     socialLinks: [
