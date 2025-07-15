@@ -18,9 +18,7 @@ export default defineConfig({
       {
         text: '社交媒体',
         link: '/social',
-        items: [
-          { text: '群聊', link: '/social/groups' },
-        ]
+        items: []
       },
       { text: '本站', link: '/contact' },
       { text: 'Todo', link: '/todo' }
