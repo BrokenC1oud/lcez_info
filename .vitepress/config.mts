@@ -9,12 +9,14 @@ export default defineConfig({
     logo: '/logo.svg',
     nav: [
       { text: '主页', link: '/' },
+      { text: 'FAQ', link: '/FAQ' },
       { text: '关于学校', link: '/about' },
       { text: '社交媒体', link: '/social' }
     ],
 
     sidebar: [
       { text: '关于学校', link: '/about' },
+      { text: 'FAQ', link: '/FAQ' },
       {
         text: '社交媒体',
         link: '/social',

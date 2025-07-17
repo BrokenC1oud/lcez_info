@@ -11,14 +11,14 @@ hero:
     alt: 校徽
   actions:
     - theme: brand
+      text: FAQ
+      link: /FAQ
+    - theme: alt
       text: 关于学校
       link: /about
     - theme: alt
       text: 社交媒体
       link: /social
-    - theme: alt
-      text: 关于本站
-      link: /contact
 ---
 
 <style>
