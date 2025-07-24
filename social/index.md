@@ -7,3 +7,4 @@
 - [Bilibili](https://space.bilibili.com/319379525)
 - [百度贴吧](https://tieba.baidu.com/f?kw=历城二中)
 - [官网](https://www.lcez.cn/)
+- [群聊](./groups.md)
