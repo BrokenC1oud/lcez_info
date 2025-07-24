@@ -23,6 +23,7 @@ export default defineConfig({
         items: []
       },
       { text: '本站', link: '/contact' },
+      { text: '名人堂', link: '/shame' },
       { text: 'Todo', link: '/todo' }
     ],
 
