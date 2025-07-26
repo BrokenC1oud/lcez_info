@@ -20,11 +20,14 @@ export default defineConfig({
       {
         text: '社交媒体',
         link: '/social',
-        items: []
+        items: [
+          { text: '群聊', link: '/social/groups' },
+        ]
       },
       { text: '本站', link: '/contact' },
       { text: '名人堂', link: '/shame' },
-      { text: 'Todo', link: '/todo' }
+      { text: 'Todo', link: '/todo' },
+      { text: '致谢', link: '/credit' }
     ],
 
     socialLinks: [
