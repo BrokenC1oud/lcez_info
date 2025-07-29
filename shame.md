@@ -18,6 +18,10 @@
 
 ![](./assets/jp.png)
 
+## 拾人牙慧
+
+![](./assets/wisdom.png)
+
 ## ?
 
 ![](./assets/surrender.png)
