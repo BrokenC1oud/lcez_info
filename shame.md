@@ -14,6 +14,10 @@
 
 ![](./assets/shit.png)
 
+## 罕见
+
+![](./assets/jp.png)
+
 ## ?
 
 ![](./assets/surrender.png)
