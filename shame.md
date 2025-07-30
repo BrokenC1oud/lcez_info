@@ -22,6 +22,10 @@
 
 ![](./assets/wisdom.png)
 
+## 其实我在学习
+
+![](./assets/study.png)
+
 ## ?
 
 ![](./assets/surrender.png)
