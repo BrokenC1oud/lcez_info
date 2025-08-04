@@ -14,6 +14,10 @@
 
 ![](./assets/shit.png)
 
+## AUV 澳✌️
+
+![](./assets/australian.png)
+
 ## 罕见
 
 ![](./assets/jp.png)
