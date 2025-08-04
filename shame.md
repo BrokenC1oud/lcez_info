@@ -14,7 +14,7 @@
 
 ![](./assets/shit.png)
 
-## AUV 澳✌️
+## AUV 澳 :v:
 
 ![](./assets/i.png)
 
