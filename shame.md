@@ -16,6 +16,8 @@
 
 ## AUV 澳✌️
 
+![](./assets/i.png)
+
 ![](./assets/australian.png)
 
 ## 罕见
