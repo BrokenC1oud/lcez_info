@@ -10,3 +10,4 @@
 - [群聊](./groups.md)
 - [Discord](https://discord.gg/FJv5AZA5NY)
 - 表白墙: QQ2979826612
+- 摄影墙: QQ1992237704
