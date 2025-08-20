@@ -9,5 +9,6 @@
 - [官网](https://www.lcez.cn/)
 - [群聊](./groups.md)
 - [Discord](https://discord.gg/FJv5AZA5NY)
+- [Telegram](https://t.me/lcez123)
 - 表白墙: QQ2979826612
 - 摄影墙: QQ1992237704
