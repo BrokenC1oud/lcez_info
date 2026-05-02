@@ -24,6 +24,13 @@ export default defineConfig({
           { text: '群聊', link: '/social/groups' },
         ]
       },
+      {
+        text: "人物志 (WIP)",
+        link: "/bio",
+        items: [
+          { text: "59级", link: "/bio/59" },
+        ]
+      },
       { text: '本站', link: '/contact' },
       { text: '名人堂', link: '/shame' },
       { text: 'Todo', link: '/todo' },
