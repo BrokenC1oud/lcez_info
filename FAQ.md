@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/link-611study.icu-%23FF4D5B.svg?style=for-the-badge)](https://611study.icu/)
 
-::: warn
+::: warning
 目前该页大部分内容针对62级编写，仅供参考，请根据官方公告为准
 :::
 
