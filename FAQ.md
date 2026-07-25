@@ -83,13 +83,6 @@
 
 > 军训将会是你整个高中生活中最轻松的一段时间，尽情享受罢
 
-      { text: '本站', link: '/contact' },
-      { text: '名人堂', link: '/shame' },
-      { text: 'Todo', link: '/todo' },
-      { text: '致谢', link: '/credit' }
-    ],
-
-    soci
 ## 生活
 
 ### 仪容仪表
