@@ -58,6 +58,7 @@
 |954139646|金铲铲之战|
 |[入群链接](https://qm.qq.com/q/RODz6qNrqQ)|编曲|
 |950765512|Vocaloid|
+|战争雷霆|1045854240|
 
 ### Telegram
 
